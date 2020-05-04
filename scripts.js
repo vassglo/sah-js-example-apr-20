@@ -20,6 +20,12 @@ $('#add').click(myLittleFunction);
 $('#remove').click(function () {
     $('p:last-child').remove();
 });
+
+//fourth part
+
+if (condition that true or false){
+}
+
 // single comment
 /* több soros 
 komment is
